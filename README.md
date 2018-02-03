@@ -1,2 +1,1 @@
-# SSH
-SSH+Redis+Java+Quartz
+# intell
